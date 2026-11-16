@@ -1,0 +1,9 @@
+version = 1
+default_region = "south"
+
+[regions.south]
+name = "Miền Nam"
+enabled = true
+config = "config.toml"
+description = "Ứng dụng ATS OneBSS độc lập cho Miền Nam."
+update_repository = "cuongtm88-blip/ATAS_Onebss_update_MienNam"
